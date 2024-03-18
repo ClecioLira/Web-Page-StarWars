@@ -1,0 +1,61 @@
+#logo {
+    font-family: "Russo One", sans-serif;
+    color: yellow !important;
+    font-size: 2.5rem !important;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: white !important;
+}
+
+body {
+    background-image: url(img/bg.jpg);
+    background-position: center !important;;
+    background-repeat: repeat;
+    background-size: contain !important;
+    color: white !important;
+}
+
+h2, h3 {
+    font-family: "Jura", sans-serif;
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.6) !important;
+    border-radius: .25rem !important;
+    box-shadow: 0 0 1.5rem rgba(217, 251, 0, 0.373) !important;
+}
+
+li {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: white !important;
+}
+ul {
+    border-radius: .25rem !important;
+}
+
+footer {
+    color: white !important;
+}
+
+footer #a {
+    color: white !important;
+}
+
+@media (min-width: 768px) {
+    #dicas {
+        margin: 0rem auto 2rem !important;
+    }
+    
+    .card:hover {
+        transform: scale(1.05);
+        transition: .4s;
+    }
+    
+    main {
+        margin: 0px auto !important;
+        width: 900px !important;
+        border-radius: .5rem !important;
+    }
+}
