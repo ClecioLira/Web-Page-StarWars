@@ -8,8 +8,8 @@ function alterarClasse() {
     div1.classList.add('g-1');
   } else {
     div1.classList.add('row');
-    div1.classList.add('row-cols-3');
-    div1.classList.add('row-cols-md-3');
+    div1.classList.add('row-cols-4');
+    div1.classList.add('row-cols-md-4');
     div1.classList.add('g-1');
   }
 }
@@ -21,8 +21,8 @@ function alterarClasse2() {
     div2.classList.add('g-1');
   } else {
     div2.classList.add('row');
-    div2.classList.add('row-cols-3');
-    div2.classList.add('row-cols-md-3');
+    div2.classList.add('row-cols-4');
+    div2.classList.add('row-cols-md-4');
     div2.classList.add('g-1');
   }
 }
