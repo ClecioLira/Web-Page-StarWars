@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Disney+:",
+        "descricao": "A plataforma de streaming oficial da Disney oferece todos os filmes da saga principal, as séries live-action 'The Mandalorian' e 'O Livro de Boba Fett', e diversas animações como 'Star Wars Rebels' e 'Star Wars: The Clone Wars'.",
+        "imagem": "img/PLATAFORMAS/Disney.jpg"
+    },
+    {
+        "titulo": "Serviços de streaming:",
+        "descricao": "Netflix, Amazon Prime Video e HBO Max também oferecem alguns filmes da saga em seus catálogos.",
+        "imagem": "img/PLATAFORMAS/streamings.webp"
+    },
+    {
+        "titulo": "DVD/Blu-ray:",
+        "descricao": "Você pode adquirir os filmes em DVD ou Blu-ray para assisti-los quando quiser.",
+        "imagem": "img/PLATAFORMAS/bluray.webp"
+    }
+]

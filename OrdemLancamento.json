@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Episódio IV: Uma Nova Esperança (1977)",
+        "imagem": "img/FILMES/IV.jpeg"
+    },
+    {
+        "titulo": "Episódio V: O Império Contra-Ataca (1980)",
+        "imagem": "img/FILMES/V.jpeg"
+    },
+    {
+        "titulo": "Episódio VI: O Retorno de Jedi (1983)",
+        "imagem": "img/FILMES/VI.jpeg"
+    },
+    {
+        "titulo": "Episódio I: A Ameaça Fantasma (1999)",
+        "imagem": "img/FILMES/I.jpeg"
+    },
+    {
+        "titulo": "Episódio II: Ataque dos Clones (2002)",
+        "imagem": "img/FILMES/II.jpeg"
+    },
+    {
+        "titulo": "Episódio III: A Vingança dos Sith (2005)",
+        "imagem": "img/FILMES/III.jpeg"
+    },
+    {
+        "titulo": "Episódio VII: O Despertar da Força (2015)",
+        "imagem": "img/FILMES/VII.jpeg"
+    },
+    {
+        "titulo": "Episódio VIII: Os Últimos Jedi (2017)",
+        "imagem": "img/FILMES/VIII.jpeg"
+    },
+    {
+        "titulo": "Episódio IX: A Ascensão Skywalker (2019)",
+        "imagem": "img/FILMES/IX.jpeg"
+    }
+]
